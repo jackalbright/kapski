@@ -1,0 +1,6 @@
+<div class="storyBox">
+<p><span class="QA">Q</span> Do you paint outside in the winter?</p>
+<p><span class="QA">A</span> The weather is too cold most days. If there is a spell of warm weather (above 40 degrees during the daytime) and a new door, window or some replaced trim is in need of a primer to keep the wood preserved, this work can and should be done.</p>
+<p>Caulking, replacing broken or missing glazing compound in the window sashes to keep water away from the wood and other wood protection jobs can and should be done. Usually the time from the end of November until the first week of March is reserved for interior work.</p>
+<p>It is a good idea for those who wish to have exterior painting done in the Spring or Summer to contact their Painting Professional during the off season. This allows the consumer sufficient lead time to compile the proposals, do homework on colors and manufacturers products and, since it is off-season, your Painting Professional will want to sharpen his (or her) pencil and be more competitive than if he had 10 jobs already in line.</p>
+</div>

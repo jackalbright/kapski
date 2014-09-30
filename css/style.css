@@ -1,0 +1,527 @@
+body{
+margin-top:0;
+background-color:#693;
+
+font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+h1{
+font-size:18px;color:#660;
+}
+h2{
+font-size:14px;color:#660;
+}
+h3{
+font-size:13px;color:#660;
+
+}
+p.quotation{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+font-style:italic;
+color:#693;
+}
+#mainContainer{
+width:90%;
+max-width:1000px;
+min-width:900px;
+margin-left:auto;
+margin-right:auto;
+padding:0;
+background-color:#f7f7e6;
+}
+#mainContent{
+background-color:#f7f7e6;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+line-height:1.2em;
+border:0;
+padding:0 0 5px 15px;
+border-top:1px solid #ffc;
+}
+
+#mainContent .background{
+/*background-color:#996666;*/
+padding:5px;
+border:1px solid #cccc68;
+background-image:url(/dev/images/siteShots/250x250_65_2.jpg);
+background-position:100% 0;
+background-repeat:no-repeat;
+}
+#mainContent .background p{
+line-height:1.5em;
+}
+#mainContent .pictureBox{
+float:right;
+width:250px;
+height:250px;
+}
+#mainContent .rightColumn{
+float:right;
+width:250px;
+height:auto;
+}
+div.angiesList{
+font-size:10px;
+color:666;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+margin:auto;
+margin-top:10px;
+text-align:center;
+}
+div.pdcaLogo{
+margin:auto;
+border:none;
+text-align:center;
+}
+div.leadFreeCertifiedLogo{
+margin:auto;
+border:none;
+text-align:center;
+}
+div.facebook{
+margin:auto;
+border:none;
+text-align:center;
+}
+div.rssBadge{
+margin:auto;
+border:none;
+text-align:center;
+}
+
+#mainContent .pictureBoxTall{
+float:right;
+}
+#mainContent .contentBox{
+width:700px;
+text-align:left;
+padding:10px;
+border-right:1px solid #cc9;
+}
+.contentBox p{
+font-size:12px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+color:#000;
+}
+.contentBox p.mainPoint{
+font-style:italic;
+}
+.contentBox p .first-letter{
+font-size:14px;
+font-style:italic;
+color:#000;
+}
+#mainContent h1{font-size:18px;color:#660; font-family: Verdana, Arial, Helvetica, sans-serif;background:url(http://www.kapskipainting.com/dev/images/footer_bg.jpg) 100% 100% repeat-y;padding:5px 0px 8px 0px;}
+#header {
+height: auto;
+}
+#mainContent h2{
+font-size:14px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-weight:bold;
+color:#660;
+}
+#sidebar li,
+#sidebar li.cat-item,
+#sidebar li.cat-item-3{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+}
+
+#sidebar li h2,
+#sidebar h2{
+font-size:14px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-weight:bold;
+color:#660;
+}
+
+#mainContent .pictureBox h2{
+margin-top:5px;
+}
+#mainContent  .rightSidebar,
+#mainContent  #sidebar{
+/*margin-left:69%;*/
+background-color:#c3d278;
+border:1px solid #cc9;
+border-top:none;
+color:#000;
+width:29%;
+padding:5px 0 0 5px;
+float:right;
+}
+#mainContent .rightSidebar h1,
+#mainContent #sidebar h1
+{
+color:#366;
+font-size:16px;
+font-weight:bold;
+background-color:#CC6600;
+}
+#sidebar a{
+text-decoration:none;
+font-size:13px;
+line-height:1.2em;
+}
+
+#blogContainer h2{
+margin-bottom:4px;
+}
+#blogContainer h2 a{
+text-decoration:none;
+color:#366;
+font-size:16px;
+font-weight:bold;
+
+}
+#mainContent #sidebar h2
+{
+color:#366;
+font-size:14px;
+font-weight:bold;
+}
+#mainContent .rightSidebar h3,
+#mainContent #sidebar h3
+{
+color:#366;
+font-size:14px;
+font-weight:bold;
+}
+#mainContent .rightSidebar .infoBox,
+#mainContent #sidebar .infoBox,
+{
+border:1px solid #366;
+padding:5px;
+font-size:13px;
+font-weight:normal;
+text-align:center;
+margin:10px 0;
+width:500px;
+}
+#mainContent .leftContentBox{
+clear:both;
+float:left;
+width:69%;
+border:1px solid #ddd;
+}
+#mainContent .leftContentBox .storyBox{
+border-bottom:1px dashed #ddd;
+padding:5px 3px;
+}
+.storyBox.storyBoxRight{
+padding:4px;
+margin-top:5px;
+width:80%;
+border-top:3px solid #693;
+border-left:3px solid #693;
+}
+.storyBox img{
+margin:4px;
+}
+.storyBox  p strong{
+color:#660;
+}
+img.imageFloatLeft{
+float:left;
+}
+.askSteveMenu{
+font-style:italic;
+}
+p  .QA{
+font-size:15px;
+font-weight:bold;
+color:#660;
+padding:3px;
+}
+#mainContent .leftContentBox .storyBox h1{
+font-size:16px;color:#660; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+#mainContent .leftContentBox .storyBox h4{
+font-size:12px;color:#666; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.pictureBox ul{
+list-style: circle;
+}
+.pictureBox ul li{
+margin:4px 0;
+}
+.pictureBox ul a,
+.pictureBox ul a:link,
+.pictureBox ul a:active,
+.pictureBox ul a:visited{
+text-decoration:none;
+color:#660;
+}
+.pictureBox ul a:hover{
+color:#000;
+}
+#mainContent h3{
+font-size:12px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-weight:bold;
+color:#660;
+}
+#header .topContent{
+background-image: url(http://kapskipainting.com/images/backgrounds/rowHouses.jpg);
+background-position:0% 0%;
+background-repeat:repeat-x;
+background-color: #ffffcc;
+padding: 0;  
+margin:0;
+height:50px;
+}
+#header .bottomContent{
+background-color: #693;
+padding: 0;
+margin:0;
+height:50px;
+}
+#header .content{
+
+background-image: url(http://kapskipainting.com/images/backgrounds/rowHouses.jpg);
+background-position:0% 0%;
+background-repeat:repeat-x;
+background-color: #fffece;
+padding:52px 0 0 0;
+}
+#header h1{
+font-size:24px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-weight:bold;
+color:#693;
+}
+#footer {
+background-color:#cc6;
+background:url(http://www.kapskipainting.com/dev/images/footer_bg.jpg) 100% 100% repeat-y;
+font-size: 12px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+text-align: center;
+clear: both;
+padding:5px;
+border:0;
+	/*background-color: #CCCC99;*/
+}
+footer {
+background-color:#cc6;
+background:url(http://www.kapskipainting.com/images/footer_bg.jpg) 100% 100% repeat-y;
+font-size: 12px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+text-align: center;
+clear: both;
+padding:5px;
+border:0;
+	/*background-color: #CCCC99;*/
+}
+footer .content{
+margin-top:2px;
+padding-top:2px;
+/*background:url(http://centrevillecounseling.com/images/br.gif) 100% 100% no-repeat;*/
+}
+footer .floatleft{
+float:left;
+text-align:center;
+padding:5px 12px;
+color:#660;
+}
+#footer .floatright{
+float:right;
+text-align:center;
+padding:5px 12px;
+}
+footer .floatright a,
+footer .floatright a:link,
+footer .floatright a:active,
+footer .floatright a:visited
+{
+color:#363;
+text-decoration:none;
+font-size:12px;
+}
+footer .floatright a:hover
+{
+color:#f2f2d8;
+border:1px solid  #363;
+}
+.clearfloat{
+clear:both;
+height:.1px;
+}
+.formTable{
+border:1px solid #cc6;
+border-collapse:collapse;
+font-size:12px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.formTable .formLabel{
+background-color:#cc9;
+border:1px solid #ffc;
+padding:2px 4px 2px 0;
+text-align:right;
+}
+
+.formTable .formValue{
+/*background-color:#a0a082;*/
+background-color:#fff;
+border:1px solid #cc9;
+padding:2px 0 2px 4px;
+text-align:left;
+}
+.formTable .tableHeading{
+background-color:#cc9;
+}
+.formTable .subHeading{
+background-color:#cc9;
+border:1px solid #ffc;
+padding:5px 4px 5px 10px;
+}
+.formTable input{
+border:1px solid #333;
+background-color:#f7f7e6 !important;
+}
+.formTable textarea{
+border:1px solid #333;
+background-color:#f7f7e6;
+}
+.linkButton{
+background-color:#f7f7e6;
+padding:3px 5px;
+border:1px solid #a0a082;
+margin:auto;
+}
+.linkButton:hover {
+color:#ffc;
+background-color:#cc9;
+border:1px solid #a0a082;
+}
+.linkButton a,
+.linkButton a:link,
+.linkButton a:visited{
+text-decoration:none;
+color:#ffc;
+}
+.linkButton a:hover{
+color:#000;
+}
+.serviceBox{
+border:1px solid #693;
+padding:5px 10px;
+margin:3px 0px;
+font-size:12px;
+}
+#homepage .serviceBox{
+border:none;
+}
+.serviceBox ul{
+text-decoration:none;
+list-style:none;
+}
+.serviceBox ul li{
+font-size:14px;
+font-weight:normal;
+color:#693;
+list-style-type: circle;
+list-style: circle;
+line-height:1.5em;
+}
+.serviceBox ul li ul li{
+list-style:none;
+list-style-type:none;
+font-size:12px;
+padding-left:10px;
+color:#666;
+}
+.serviceBox p{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+
+line-height:1.5em;
+font-size:12px;
+}
+.serviceBox p strong{
+font-weight:900;
+color:#660;
+}
+.serviceBox a,
+.serviceBox a:active,
+.serviceBox a:link,
+.serviceBox a:visited{
+text-decoration:none;
+font-weight:bold;
+color:#660;
+}
+
+.serviceBox a:hover{
+text-decoration:none;
+color:#693;
+background-color:#f7f7e6;
+}
+.serviceBox h2.serviceBoxHeading{
+text-transform:capitalize;
+font-style:italic;
+margin-left:-10px;
+}
+.pictureNav{
+background-color:#cc9;
+border:1px solid #693;
+padding:5px;
+}
+.serviceBox .pictureNav a,
+.pictureNav a:link,
+.pictureNav a:visited {
+border:none;
+background-color:#cc9;
+font-size:12px;
+text-decoration:none;
+color:#000;
+}
+.pictureNav a:hover {
+color:#fff;
+}
+.pictureBoxTable{
+border:1px solid #693;
+border-collapse:collapse;
+}
+.pictureBoxTable td{
+border:1px solid #f7f7e6;
+}
+.pictureBoxTable td.pictureCell{
+background-color:#f7f7e6;
+border:1px dashed #eee;
+padding:5px 10px;
+}
+.pictureBoxTable td.formLabel{
+text-align:right;
+border:1px solid #cc9;
+padding:0 10px;
+}
+.pictureBoxTable td.pictureDescription{
+background-color:#f7f7e6;
+border:1px solid #cc9;
+padding:2px 4px 2px 10px;
+text-align:left;
+}
+ul.codeOfEthics{
+list-style-type:none;
+}
+ul.codeOfEthics li{
+
+}
+a.contactLink,
+a.contactLink:link,
+a.contactLink:visited,
+a.contactLink
+{
+	color:#660;
+	
+}
+/* I M A G E    G A L L E R Y    --  G A L L E R I A */
+#galleria{ 
+width: 600px; 
+height: 500px; 
+border:2px solid #000;
+/*background: #a38358;*/
+/*background-image:url(../images/gallery/galleriaBackgroundImage.jpg);
+background-repeat:repeat-x;
+background-position:left top;*/
+background: #000;
+margin-left:auto;
+margin-right:auto; }

@@ -1,0 +1,15 @@
+<div class="storyBox">
+<p><span class="QA">Q</span> I have mold and mildew and most of all moss on my roof, aside from looking really bad can it shorten the lifespan of my shingles?</p>
+<p ><span class="QA">A</span> Yes it will. Moss and lichens are more than cosmetic issues on many kinds of roofing materials - asphalt shingles, roll roofing, wood shingle roofs, wood shake roofs. By holding moisture against the roof surface lichens and moss speed the wear of the asphalt shingle surface in freezing climates by increasing frost damage to the mineral granule coating on the shingles.</p>
+<p ><img src="http://kapskipainting.com/images/mossRoof.jpg" alt="A picture of a mossy roof" width="200" height="150" border="0" align="left" >Because moss or lichen growing on a roof surface will hold moisture on the roof longer than other areas, these growths can reduce the life of the roof covering.</p>
+<p>Particularly where the roofing materials are asphalt shingles or wood shingles, holding water on the roof surface by any means (leaves, debris, moss, or lichens) speeds up wear on these shingles. In freezing climates there may be faster frost damage, cracking, and wear of the shingles under the moss or lichens. Even in non-freezing climates, the roots of moss or lichens eventually penetrate and separate the roof shingle materials damaging them.</p>
+<p>Some black stains on asphalt roof shingles are caused by black algae. Black algae stains may be mistaken for extractive bleeding: a product defect.</p>
+<p>Green algae on roofs, the presence of these black fungal or algal stains on the roof is an indicator that this roof area is in a shaded spot where you will want to be alert for development of moss or other roof problems, but the level of damage from the black fungus or algae is probably low, even less than that caused by lichen certainly less than that caused by moss. Avoid any aggressive cleaning methods that might damage the roof surface.</p>
+<p>It is possible to remove moss from a roof surface by gentle cleaning using a soft brush or a power washer. But why bother?
+Power washing, brushing or sweeping an asphalt shingle roof (or a wood shingle roof in old, worn, fragile condition) is itself a process that can damage the roof by breaking shingles or by loosening the protective mineral granules from the shingle surface. I recommend have your professional (or Kapski) evaluate the existing conditions.</p>
+<p>Chemicals that "kill" the moss or lichens risk also damaging the shingles or contaminating the environment, and have the further disadvantage that they still leave the moss or lichens in place.</p>
+<h3>This is what I recommend</h3>
+<p>Install, copper strips or wire along the ridge of an existing roof, this will slowly kill off moss or lichens as rainwater washes over the metal and down the roof surface. This method is suitable for both prevention of future or further moss or lichens growth on the roof and for gently treating an otherwise fragile old roof.</p>
+<p>If you are replacing an existing roof which has this problem have your roofer, or Kapski install copper wire on the ridge or in other suitable places.
+</p>
+</div>

@@ -1,0 +1,113 @@
+/* CSS Document */
+.topHeadingBlock{
+	/*margin:0;
+	min-height:100px;
+	background-color:#ADC4CC;
+	color:#4298B5;*/
+	background-image:url("http://kapskipainting.com/images/headerImages/rowHouses3.png");
+	background-repeat:repeat-x;
+	background-position:top left;
+	background-color: #4298B5;
+	height:106px;
+	padding-left:0 0 0 10px;
+}
+.topHeadingBlock h1{
+	color:#4298B5;
+}
+.container{
+	background-color:#fff;
+	padding-top:0;
+}
+body{background-color:#4298B5;margin:0;
+}
+header{
+	margin:0;
+	}
+a.navbar-brand {color:#4298B5 !important;font-weight:900;}
+
+.sidebar{text-align:center}
+.sidebar i{
+	color:#4298B5 !important;
+	}
+.sidebar .badges{
+	margin:15px 0;
+}
+
+#footer{
+	background-color:#ADC4CC;
+	padding:5px;
+	color:#666;
+}
+
+#footer .badges{
+	text-align:center;
+}
+#footer .addressBlock{
+	text-align:center;
+}
+#footer .licenseNumberBox{
+	text-align:right;
+}
+#footer i{
+	color:#4298B5 !important;
+}
+h2.serviceBoxHeading{color:#4298B5 !important;}
+div.sidebar{
+	}
+div.mainPageContent{
+	border-right:1px solid #ADC4CC;
+}
+
+
+div.badges{
+	text-align:center; 
+	vertical-align:middle;
+	}
+/*
+#4298B5 blue
+#ADC4CC lignt blue
+#92B06A green
+#E19D29 gold
+#DD5F32 orange
+*/
+@media (min-width: 320px) {
+  .topHeadingBlock {
+	  padding:15px 0 5px 5px;
+    /*background-color:#DD5F32;*/
+	color:#fff;
+	font-size:1em;
+	min-height:60px;
+  }
+  h1{font-size:1.5em;}
+  #footer .licenseNumberBox{text-align:center;}
+  #footer .emailAddressBox{text-align:center;}
+}
+@media (min-width: 768px) {
+  .topHeadingBlock {
+   /* background-color:#900;
+	color:#000;*/
+  }
+}
+@media screen and (min-width: 768px) {
+  .equal, .equal > div[class*='col-'] {  
+      display: -webkit-box;
+      display: -moz-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      flex:1 0 auto;
+  }
+}
+
+@media (min-width: 992px) {
+  .topHeadingBlock {
+  /* background-color:#ADC4CC;
+   color:#000;*/
+  }
+}
+@media (min-width: 1200px) {
+  .topHeadingBlock {
+    /*background-color:#4298B5;
+	color:#000;*/
+  }
+}

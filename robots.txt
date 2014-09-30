@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /dev
+Disallow: /mailings
+Disallow: /images2
+Disallow: /includes

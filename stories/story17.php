@@ -1,0 +1,41 @@
+<div class="storyBox">
+<h3>Redefining 'Green' Paint</h3>
+
+<p>Here's how to use the latest criteria to find the best interior paint options.<br />
+<strong>By Brent Erhlich</strong></p>
+ 
+<p>Selecting the right interior paint used to require choosing between design and performance or health and environmental concerns, but in the last few years paint performance has improved significantly, emissions have dropped, and there are more choices on the market. There is still a lot of hype, green washing, and labeling confusion out there, but there are also tools that can help find environmentally responsible paints that meet your needs.
+</p>
+<h4>Moving Beyond VOCs</h4>
+
+<p>Interior paint contains solvents used to help keep the resin and pigments in suspension. As the solvent evaporates, it leaves behind the final paint film, but it also emits VOCs into the atmosphere that then react with heat and sunlight outdoors to create ground-level ozone. While ozone is necessary in the upper atmosphere to protect us from ultraviolet radiation, at ground level it creates smog. The resulting pollution caused by VOCs from paints and other products has led to ever-tightening regulations, particularly in Southern California where the South Coast Air Quality Management District (SCAQMD) has established strict limits on VOC emissions.
+</p>
+<p>Current VOC regulations were not intended to address indoor air quality or human health concerns, however, and the health impacts of all the various VOCs and their emissions as paint cures over time are not fully understood. Looking at a paint's VOC content is still a good starting point for assessing its environmental and health impacts?but it is just a starting point, as waterborne low- or zero-VOC paints may still contain unregulated ?exempt? VOCs, reproductive toxins, crystalline silica, carcinogens, and other chemicals of concern.
+</p>
+<h4>Third-Party Testing and Other Certifications
+</h4>
+<p>The EPA has established a nationwide VOC limit for interior paints of 250 grams per liter (g/l), but many state and regional districts require significantly lower levels. SCAQMD, for instance, limits VOC emissions to 50 grams per liter (g/l) for both flat and non-flat gloss level paints (primers are 100 g/l to allow for metal primers). Manufacturers that want to sell in these districts often pay third-party certifiers to test and verify that VOC levels of their paints meet these requirements.
+</p>
+<p>The most common third-party certifications are Green Seal GS-11, Greenguard Children & Schools, Green Wise, Master Painters Institute (MPI) Green Performance/X-Green, and Scientific Certification Systems (SCS) Indoor Advantage Gold. All of these have a VOC limit of 50 g/l for flat paints, but limits for higher gloss paints vary and can be as high as 150 g/l. Note that the VOC levels listed on most paint cans do not include the VOCs from the colorants. Some dark tints can increase the VOC levels by more than 50 g/l, so look for paints that use zero-VOC colorants such as those offered by Benjamin Moore, Dunn-Edwards, or Safecoat, or simply choose lighter colors from other manufacturers.
+</p>
+<p>Though not meant as a residential paint standard, the Collaborative for High Performance Schools' (CHPS) High Performance Products Database lists paints that conform to SCAQMD limits for VOCs as well as California Department of Public Health (CDPH) Section 01350 restrictions for more than 80 chemicals. MPI X-Green, SCS Indoor Advantage Gold, and Greenguard Children & Schools use CHPS criteria, including chemical restrictions, so certifications to any of those are considered equivalent. A paint company can also bypass these certifiers and test its paint to CHPS standards using approved independent laboratories.
+</p>
+<p>If you want to dig deeper into a paint's chemical makeup, the Pharos Project provides a database of paints scored on a number of criteria and can be used to learn more about a paint's environmental profile. Pharos' goal is to promote industry transparency, so it solicits manufacturer information and conducts its own research to determine what chemicals are in specific paints and learn more about the companies' manufacturing processes. Pharos also maintains a database of chemicals correlated to available hazard and warning lists. For more on the Pharos Project, go to http://www.pharosproject.net/.
+</p>
+<p>Natural paints are made from milk casein, lime, clay, and other natural ingredients, along with mineral pigments as colorants, and often come in powdered form that is mixed in water before application. Typically used on porous surfaces such as wood, these paints emit no VOCs and contain no toxins but provide the least amount of protection for surfaces. Powdered natural paints are mixed per batch, so surfaces may end up with a unique, but uneven, look; matching colors for touch-up can be difficult.
+</p>
+<p>Latex paints, which contain no latex rubber, are used primarily on walls and ceilings. They cure to a relatively soft coat that is prone to damage, so these paints are often blended with acrylics to improve performance. Higher-quality 100% pure acrylics are more durable and more expensive, but both latex and acrylic paints are readily available in zero-VOC (defined as less than 5 g/l) and low-VOC (less than 50 g/l) formulations.
+</p>
+<p>Waterborne alkyd paints are now available that contain less than 50 g/l VOC. These paints react with oxygen in the air to form a hard, higher gloss film. Used for trim, cabinets, and other high-use applications, waterborne alkyds typically have a slightly higher VOC level than natural or latex paints, but they hold up well to scrubbing and household cleaners.
+</p>
+<p>Recycled paints are inexpensive, and their use reduces the environmental burden of virgin paint production while keeping excess paint out of the landfill or groundwater. Both Green Seal and MPI certify recycled paints, which have to undergo careful sorting, filtration, and testing. Uncertified, locally sourced products commingled from leftover paint containers cannot guarantee VOC levels or quality. The VOC levels of these paints are typically higher than virgin paints, between 150 and 250 g/l, and, because of batch differences, matching colors can be difficult.
+</p>
+<h4>Real-World Performance and Paint Choices
+</h4>
+<p>Paints should be selected for their proper end use, so durability, cost, ease of application, and human health concerns also need to be considered. Natural, mineral-based paints are not known for their durability, and few have third-party certification, but for people with chemical sensitivities, these paints may be the best option. For many home-owners and builders, durability is important and is a key green attribute for paint. Green Seal GS-11 and MPI X-Green standards test for both performance and environmental attributes. MPI, in particular, has specific criteria for each paint type, evaluating gloss levels, scrubbability, hiding power, and a number of other characteristics.
+</p>
+<p>If you're building certified homes within one of the national voluntary green building rating systems, including LEED for Homes, the ANSI National Green Building Standard, Environments for Living, and EPA's Indoor airPLUS program, you'll find that they address paint selection and specify VOC limits within their indoor environmental quality credits (see sidebar). CALGreen 2010, the nation's first green building code, lists environmental paint specs under its mandatory measures along the lines of these voluntary requirements: 50 g/l flat, 100 g/l non-flat products.
+</p>
+<p>There are now dozens of natural and certified zero- and low-VOC paints on the market. With consumers demanding more product transparency, regulations on emissions and other toxins getting tighter, and product technologies fundamentally changing, you and your painting contractors are going to have to stay on top of these changes, learn how to apply these new paints, and adjust your businesses and schedules accordingly.
+</p>
+</div><!--storyBox-->

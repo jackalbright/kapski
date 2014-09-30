@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://kapskipainting.com/</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+
+
+
+<url>
+  <loc>http://kapskipainting.com/services.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+
+<url>
+  <loc>http://kapskipainting.com/workSamples.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+
+<url><loc>http://kapskipainting.com/faq.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+
+<url>
+  <loc>http://kapskipainting.com/companyInfo.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+
+<url>
+  <loc>http://kapskipainting.com/contact.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://kapskipainting.com/employment.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+
+<url>
+  <loc>http://kapskipainting.com/customerFeedback.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://kapskipainting.com/askSteve.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://kapskipainting.com/delaware-county-pa/</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://kapskipainting.com/delaware-county-pa/painting-contractor.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://kapskipainting.com/chester-county-pa/</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://kapskipainting.com/chester-county-pa/painting-contractor.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://kapskipainting.com/new-castle-county-de/</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://kapskipainting.com/new-castle-county-de/painting-contractor.php</loc>
+  <priority>0.5</priority>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>

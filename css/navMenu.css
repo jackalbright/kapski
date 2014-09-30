@@ -1,0 +1,190 @@
+#navcontainer{
+/*float:left;
+clear:both;
+*/
+display:block;
+/*border-top: none;*/
+width:100%;
+background-color:#ffc;
+border:#693;
+}
+ul#navmenu ul {
+  margin: 0;
+  border:none;
+  padding: 0;
+  width: 160px;
+  list-style: none;
+  display: none;
+  position: absolute;
+  top: 20px;
+  left: 0;
+  font-size:12px;
+}
+
+ul#navmenu ul:after /*From IE 7 lack of compliance*/{
+  clear: both;
+  display: block;
+  font: 1px/0px serif;
+  content: ".";
+  height: 0;
+  visibility: hidden;
+}
+
+ul#navmenu ul li {
+/*border-right:1px solid #693;
+border-left:1px solid #693;
+border-bottom:1px solid #693;*/
+border:1px solid #693;
+width: 200px;
+float: left; /*For IE 7 lack of compliance*/
+ display: block !important;
+display: inline; /*For IE*/
+margin-left:0px;
+}
+
+/* Root Menu */
+ul#navmenu a {
+  padding: 0 3px;
+  float: none !important; /*For Opera*/
+  float: left; /*For IE*/
+  display: block;
+  background: #ffc;
+  color: #693;
+  font:  normal normal bold 11px/22px Verdana, Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  height: auto !important;
+  height: 1%; /*For IE*/
+}
+
+/* Root Menu Hover Persistence */
+ul#navmenu a:hover,
+ul#navmenu li:hover a,
+ul#navmenu li.iehover a {
+  color: #cc9;
+}
+
+/* 2nd Menu */
+ul#navmenu li:hover li a,
+ul#navmenu li.iehover li a {
+  float: none;
+  background: #ffc;
+  color: #2e640e;
+}
+
+/* 2nd Menu Hover Persistence */
+ul#navmenu li:hover li a:hover,
+ul#navmenu li:hover li:hover a,
+ul#navmenu li.iehover li a:hover,
+ul#navmenu li.iehover li.iehover a {
+  background: #E4ECE1;
+  color: #333;
+}
+
+/* 3rd Menu */
+ul#navmenu li:hover li:hover li a,
+ul#navmenu li.iehover li.iehover li a {
+  background-color: #693;
+  color: #cc9;
+}
+
+/* 3rd Menu Hover Persistence */
+ul#navmenu li:hover li:hover li a:hover,
+ul#navmenu li:hover li:hover li:hover a,
+ul#navmenu li.iehover li.iehover li a:hover,
+ul#navmenu li.iehover li.iehover li.iehover a {
+  background: #693;
+  color: #ffc;
+}
+
+/* 4th Menu */
+ul#navmenu li:hover li:hover li:hover li a,
+ul#navmenu li.iehover li.iehover li.iehover li a {
+  background: #693;
+  color: #ffc;
+}
+
+/* ------------------------------------------*/
+/* Root = Horizontal, Secondary = Vertical */
+ul#navmenu {
+	display:block;
+  	margin: 0;
+ 	padding: 0;
+ 	width:auto; /*For KHTML*/	
+ 	list-style: none;
+  	height: 22px;
+	width:100%;
+	/*
+	background-image:url(../graphics/nav_gradient.jpg);
+	background-repeat:repeat-x;
+	background-position:left;
+	*/
+}
+
+ul#navmenu li {
+	margin: 0;
+ 	border-right: 1px solid #693 ;
+	/*border-top: 1px solid #693;*/
+	border-bottom: 1px solid #693;
+  	padding: 0;
+  	float: left; /*For Gecko*/
+  	display: inline;
+  	position: relative;
+  	height: 20px;
+	z-index:100;
+
+}
+
+ul#navmenu li .firstItem a{
+	border-left:1px solid #000;
+}
+ul#navmenu li a{
+	/*background-image:url(images/nav_gradient.jpg);
+	background-repeat:repeat-x;
+	background-position:left;*/
+	padding-top:0;
+	padding-bottom:0;
+	padding-left:16px;
+	padding-right:20px;
+
+}
+ul#navmenu li a .mainMenuItem
+ul#navmenu li:hover li:hover li:hover li a:hover,
+ul#navmenu li.iehover li.iehover li.iehover li a:hover {
+  background: #E4ECE1;
+  color: #333;
+}
+
+ul#navmenu ul ul,
+ul#navmenu ul ul ul {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 320px;
+}
+
+/* Do Not Move - Must Come Before display:block for Gecko */
+ul#navmenu li:hover ul ul,
+ul#navmenu li:hover ul ul ul,
+ul#navmenu li.iehover ul ul,
+ul#navmenu li.iehover ul ul ul {
+  display: none;
+}
+
+ul#navmenu li:hover ul,
+ul#navmenu ul li:hover ul,
+ul#navmenu ul ul li:hover ul,
+ul#navmenu li.iehover ul,
+ul#navmenu ul li.iehover ul,
+ul#navmenu ul ul li.iehover ul {
+  display: block;
+}
+ul#navmenu li.currentPage a{
+background-color: #693;
+color: #ffc;
+}
+ul#navmenu li.currentPage.firstItem a{
+background-color: #693;
+color: #ffc;
+border-top:1px solid #ffc;
+border-left:1px solid #ffc;
+}
